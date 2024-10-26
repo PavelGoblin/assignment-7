@@ -1,0 +1,124 @@
+[
+    {
+        "playerId": 1,
+        "name": "Virat Kohli",
+        "country": "India",
+        "image": "https://i.ibb.co.com/0jWhzjK/Virat-Kohli.jpg",
+        "role": "All-rounder",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 15800
+    },
+    {
+        "playerId": 2,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "image": "https://i.ibb.co.com/k18R2Xp/babar.jpg",
+        "role": "Batsman",
+        
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 12000
+    },
+    {
+        "playerId": 3,
+        "name": "Ben Stokes",
+        "country": "England",
+        "image": "https://i.ibb.co.com/NYP0LWL/ben-stokes-in-light-blue-uniform-4kjht8xstu2eveb2.jpg",
+        "role": "All-rounder",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 18000
+    },
+    {
+        "playerId": 4,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "image": "https://i.ibb.co.com/XYMJFd5/when-you-have-a-4-hour-delay-flight-rashid-khan-tears-apart-v0-9ah-RQ3fqm5-F1il-RQFVQFdb-ZQ-1k-Zz0r5.webp",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm leg spin",
+        "biddingPrice": 12200
+    },
+    {
+        "playerId": 5,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "image": "https://i.ibb.co.com/TgWgMx9/383103.webp",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm off spin",
+        "biddingPrice": 14000
+    },
+    {
+        "playerId": 6,
+        "name": "David Warner",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/LZsM1mK/warner-player-of-the-tournamen-0-1200x768-1-1.jpg",
+        "role": "Batsman",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Right-arm medium",
+        "biddingPrice": 13000
+    },
+    {
+        "playerId": 7,
+        "name": "Shane Watson",
+        "country": "Australia",
+        "image": "https://i.ibb.co.com/nsMwKzf/1524305103-3372.jpg",
+        "role": "All-rounder",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast-medium",
+        "biddingPrice": 11000
+    },
+    {
+        "playerId": 8,
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "image": "https://i.ibb.co.com/xMC8r8C/Fxrs0sja-QAIz-OXj.jpg",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 16000
+    },
+    {
+        "playerId": 9,
+        "name": "Quinton de Kock",
+        "country": "South Africa",
+        "image": "https://i.ibb.co.com/BtpgTC2/384065.webp",
+        "role": "Wicketkeeper-Batsman",
+        "battingType": "Left-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 11500
+    },
+    {
+        "playerId": 10,
+        "name": "Trent Boult",
+        "country": "New Zealand",
+        "image": "https://i.ibb.co.com/LZsM1mK/warner-player-of-the-tournamen-0-1200x768-1-1.jpg",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Left-arm fast",
+        "biddingPrice": 12500
+    },
+    {
+        "playerId": 11,
+        "name": "Rohit Sharma",
+        "country": "India",
+        "image": "https://i.ibb.co.com/BtpgTC2/384065.webp",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": 15500
+    },
+    {
+        "playerId": 12,
+        "name": "Kagiso Rabada",
+        "country": "South Africa",
+        "image": "https://i.ibb.co.com/NYP0LWL/ben-stokes-in-light-blue-uniform-4kjht8xstu2eveb2.jpg",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": 13500
+    }
+  
+]

@@ -1,0 +1,15 @@
+.available-btn{
+  border: 2px solid gray;
+  padding:5px 12px ;
+  border-radius: 10px;
+
+
+
+
+
+}
+
+.selected-btn{
+  background: rgba(141, 200, 52, 0.799);
+  color: #000;
+}

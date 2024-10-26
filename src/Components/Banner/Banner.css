@@ -1,0 +1,29 @@
+.banner-container{
+  height: 480px;
+ border-radius: 20px;
+  /* background-image: url(../../../images/bg-shadow.png); */
+  /* background: black; */
+  background-image: linear-gradient(#1D2671,black);
+  color: white;
+  
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+.Credit-btn{
+  background: #DAEF28;
+  padding:10px 20px;
+  font-size: 20px;
+  font-weight: 700;
+  border-radius: 16px;
+  color:black;
+  
+}
+.btn-border{
+  display: inline-block;
+  border: 2px solid #DAEF28;
+  padding: 3px;
+  border-radius: 16px;
+}

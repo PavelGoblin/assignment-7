@@ -1,0 +1,20 @@
+.subscribe-section{
+  background-image: url(../../../images/bg-shadow.png);
+  background-color: white;
+  background-position: center;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.input{
+  border: 2px solid gray;
+  border-radius: 8px;
+}
+
+.subscribe-btn{
+  padding: 7px 20px;
+  background: rgb(198, 227, 198);
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: 600;
+}
